@@ -19,7 +19,10 @@ We are given 2 datasets — the transaction data and purchase behaviors. Since w
 
 ![Transactions over time](/graphs/Transactions%over%time.png)
 
-![ScreenShot](Unknown-2.png)![](Task%201/Unknown-2.png)
+![ScreenShot](Unknown-2.png)
+
+![](Task%201/Transactions%20over%20time.png)
 
 
-![](Task%201/Unknown.png)
+
+![](Task%201/Unknown%202.png)
