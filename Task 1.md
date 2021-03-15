@@ -18,7 +18,7 @@ We are given 2 datasets — the transaction data and purchase behaviors. Since w
 ### Who spends on Chips? 
 
 
-![ScreenShot](/screenshots/Unknown-2.png)
+![Transactions over time](/graphs/Transactions%over%time.png)
 
 
 ![](Task%201/Unknown.png)
