@@ -18,27 +18,25 @@ Top 3 contributors are:
 
 Overall, Older Single/Couples customers has the highest total sales in combine (20.5%), Retired customers comes 2nd (18.6%) and Older Families customers comes 3rd (18.5%). The most popular brand is Smiths with more than 16k number of translations. 
 
-[Customer_lifestage_Total_sales](/graphs/Customer%VS%Sales.png)
-
-![](Task%201/Unknown.png)
-
-[Trans_over_time] (/graph/Transactions%over%time.png)
+![](Task%201/Unknown%202.png)
 
 
-![](Task%201/Transactions%20over%20time.png)
+![](Task%201/Transactions%20over%20time%202.png)
 
 The transactions of chips are pretty even through out the year with one peak — Dec 26 2018 with a total ~300 chips transactions in one day! The number of chips sales during the month of December is also significant higher than the other months. 
 
 
 #### What drives spends for each customers segment?
 *Insights*
-- Most of our customers who purchased chips are elderly/retired or young families. Reasons could be: 
+- Target customers — Most of our customers who purchased chips are elderly/retired or young families. Reasons could be: 
 	- purchasing for themselves: more time to spend at home -> watching TVs/Movies 
 	- purchasing for others: have kids/youth at home, have parties/movies nights etc
-* premium members have less interest in purchasing chips. Reasons could be: health diets, vegan etc
-* December has the highest sales. Reasons could be: Festivals and Holidays — Christmas and New Years 
+* Premium members have less interest in purchasing chips. Reasons could be: health diets, vegan etc
+	* They may purchase chips that are consider more healthy 
+* December has the highest sales. Reasons could be: Festivals and Holidays — Christmas and New Years — Parties/More time as home 
 
-
-
+### Strategy Plans 
+- Promotion: Since the majority of our target customers are elderlies, we should use more traditional ways when we advertise e.g. newspapers or leaflets
+- Discount: Having discount during non peak seasons can help increasing the sales during those months 
 
 #Forage/Quartium
