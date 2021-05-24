@@ -11,8 +11,7 @@ https://quantium.com
 ## Tasks
 - Task 1 — Data preparation and customer analytics
 Mission: To generate customer insights and provide commercial recommendations by analyzing the client’s transaction dataset to identify customer purchasing behaviors 
-- Task 2 - Experimentation and uplift testing 
-- Task 3 - 
+
 
 ## Source
 This virtual experience program is provided by Quantium on Forage.com. 
